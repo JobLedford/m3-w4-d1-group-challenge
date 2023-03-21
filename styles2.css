@@ -1,3 +1,8 @@
+.font {
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
 .globalstyle {
   font-family: Verdana, sans-serif;
   font-size: 15px;
