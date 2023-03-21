@@ -1,0 +1,63 @@
+.globalstyle {
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+html {
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.card .card-info {
+  border: 1px solid #afaeae !important;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.card .card-info li {
+  border-bottom: 1px solid #dddddd;
+  padding: 8px 16px;
+}
+.card .card-info li:last-child {
+  border-bottom: none;
+}
+.card .card-info .card-item {
+  padding-bottom: 16px !important;
+  padding-top: 16px !important;
+}
+.card .card-info .card-item span {
+  font-weight: bold;
+}
+.card .card-info .card-item .card-wide {
+  letter-spacing: 4px;
+}
+.card .card-info .card-item .card-opacity {
+  opacity: 0.6;
+}
+.card .card-info .card-btn {
+  background-color: #f1f1f1 !important;
+  color: #000 !important;
+  padding-bottom: 24px !important;
+  padding-top: 24px !important;
+}
+.card .card-info .card-btn .button {
+  background-color: #4caf50 !important;
+  color: #fff !important;
+  padding: 12px 24px !important;
+}
+.card .card-shadow:hover {
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card .card-header {
+  background-color: #000 !important;
+  color: #fff !important;
+  font-size: 24px !important;
+  padding-bottom: 32px !important;
+  padding-top: 32px !important;
+}
